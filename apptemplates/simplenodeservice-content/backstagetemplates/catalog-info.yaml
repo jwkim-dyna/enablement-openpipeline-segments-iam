@@ -14,7 +14,7 @@ metadata:
     - url: https://github.com/jwkim-dyna/enablement-openpipeline-segments-iam.git
       title: Github Repo
       icon: github
-    - url: https://fluffy-space-spoon-975gjp599v6ph9vwq-DEMO_APP_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+    - url: https://fluffy-space-spoon-975gjp599v6ph9vwq-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
       title: "Browse Application"
       icon: subject
     - title: View in ArgoCD
